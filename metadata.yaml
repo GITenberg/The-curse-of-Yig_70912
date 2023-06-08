@@ -1,0 +1,25 @@
+_repo: The-curse-of-Yig_70912
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Reed, Zealia Brown
+    gutenberg_agent_id: '55993'
+    url: http://www.gutenberg.org/2009/agents/55993
+description: ''
+gutenberg_issued: '2023-06-04'
+identifiers:
+  gutenberg: '70912'
+language: en
+pgterms:marc905: 20230309060145reed
+pgterms:marc906: '1929'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aUnited States :$bPopular Fiction Publishing Company, $c1929.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The curse of Yig
+url: http://www.gutenberg.org/ebooks/70912
